@@ -1,0 +1,11 @@
+task_id,project_id,title,status,priority,developer_id,module_id,created_at,due_date,completed_at,story_points,estimated_hours,actual_hours,defect_count,risk_label
+T001,P001,Build ingestion API,IN_PROGRESS,HIGH,D001,API,2026-09-01,2026-09-28,,8,32,38,2,1
+T002,P001,Create dashboard,TODO,MEDIUM,D002,UI,2026-09-03,2026-10-05,,5,24,0,0,0
+T003,P001,Graph dependency service,BLOCKED,HIGH,D001,GRAPH,2026-09-02,2026-09-25,,8,32,45,3,1
+T004,P001,QA risk endpoint,TODO,MEDIUM,D003,QA,2026-09-08,2026-10-10,,3,16,0,0,0
+T005,P001,ML feature pipeline,IN_PROGRESS,HIGH,D004,ML,2026-09-04,2026-09-30,,8,30,34,1,1
+T006,P002,Checkout API,IN_PROGRESS,HIGH,D001,API,2026-09-06,2026-10-02,,8,36,20,1,0
+T007,P002,Checkout UI,TODO,MEDIUM,D002,UI,2026-09-07,2026-10-07,,5,22,0,0,0
+T008,P002,Payment test suite,TODO,MEDIUM,D003,QA,2026-09-10,2026-10-12,,5,20,0,0,0
+T009,P002,Recommendation model,TODO,LOW,D004,ML,2026-09-10,2026-10-20,,5,24,0,0,0
+T010,P002,Security review,TODO,HIGH,D003,SECURITY,2026-09-12,2026-10-15,,3,18,0,0,0

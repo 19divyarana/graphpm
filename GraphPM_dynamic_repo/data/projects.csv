@@ -1,0 +1,3 @@
+project_id,name,manager,start_date,end_date,status
+P001,GraphPM Demo,Project Manager,2026-09-01,2026-10-31,ACTIVE
+P002,Mobile Commerce,Project Manager,2026-09-05,2026-11-15,ACTIVE
